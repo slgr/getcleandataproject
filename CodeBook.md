@@ -14,5 +14,5 @@ www.smartlab.ws
 
 The means and standard deviations of all variables were used for all training and test data.
 
-The values were summarized by subject and by activity by taking the mean of each used feature (variable).
+The values were summarized by subject and by activity by taking the mean of each used feature.
 
